@@ -1,7 +1,5 @@
 ### Hi, I am Parul 👋
 
-<!--
-**pparul/pparul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a computer scientist and 
 
@@ -11,4 +9,4 @@ I am a computer scientist and
 - 📫 How to reach me: parul.pandey85@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
--->
+
