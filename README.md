@@ -6,7 +6,7 @@
 - 📫 You can reach me [here](parul.pandey85@gmail.com)
 - :woman_technologist: Pronouns: She/Her
 - :fist_right: I can help:
-- 1) Students of planning to pursue Ph.D. in United States
-- 2) Transition from academia to industry after a Ph.D./M.S.
+* Students planning to pursue Ph.D. in United States
+* Transition from academia to industry after a Ph.D.
 
 
